@@ -1,1 +1,1 @@
-# project-photo-collection
+# photo-collection-backend
